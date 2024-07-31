@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello there, I'm Josephine! You can also call me Jo. 
+
+- 📝 Technical writer
+- 🍦 Ice cream enthusiast
+- 👩‍💻 Content strategist and information architect
 
 <!--
 **josephineroh/josephineroh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
